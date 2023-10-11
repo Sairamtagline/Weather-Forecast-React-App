@@ -1,1 +1,2 @@
-![Alt text](result.png)
+![Alt text](src/assets/result.gif)
+![Alt text](src/assets/result.png)
